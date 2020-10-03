@@ -1,6 +1,14 @@
 # Change log for: @freesewing/core
 
 
+## 2.9.0 (2020-10-02)
+
+### Added
+
+ - Parts not get a `name` property set that hold their (own) name/id
+ - Added the `info` type to raised events
+ - Added support for conditional loading of plugins
+
 ## 2.8.0 (2020-08-10)
 
 ### Fixed

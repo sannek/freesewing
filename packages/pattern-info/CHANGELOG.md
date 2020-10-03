@@ -1,6 +1,12 @@
 # Change log for: @freesewing/pattern-info
 
 
+## 2.9.0 (2020-10-02)
+
+### Added
+
+ - Added teagan info
+
 ## 2.0.0 (2019-08-25)
 
 ### Added

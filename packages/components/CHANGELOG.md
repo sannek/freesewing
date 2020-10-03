@@ -1,6 +1,13 @@
 # Change log for: @freesewing/components
 
 
+## 2.9.0 (2020-10-02)
+
+### Added
+
+ - Added Teagan line drawing
+ - Added Discord icon in Icon component
+
 ## 2.8.0 (2020-08-10)
 
 ### Added

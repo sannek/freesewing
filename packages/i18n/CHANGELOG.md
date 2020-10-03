@@ -1,6 +1,18 @@
 # Change log for: @freesewing/i18n
 
 
+## 2.9.0 (2020-10-02)
+
+### Added
+
+ - Added translations for plugin-title
+ - Added translations for teagan
+ - Added some translations for the UI
+
+### Fixed
+
+ - Replaced a few identical files with symlinks
+
 ## 2.7.0 (2020-07-12)
 
 ### Changed
