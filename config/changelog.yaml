@@ -2,6 +2,12 @@ Unreleased:
   date:
   Added:
 
+2.10.0:
+  date: 2020-10-17
+  Added:
+    albert:
+      - Albert is an apron pattern
+
 2.9.0:
   date: 2020-10-02
   Added:
@@ -553,13 +559,13 @@ Unreleased:
 2.1.4:
   date: 2019-11-01
   Added:
-    css-theme:
-      - Added styling for search results
+    - css-theme:
+        - Added styling for search results
   Changed:
-    components:
-      - Footer version number now links to Github release page
-    example:
-      - Added the `snap-male` and `snap-female` snippets to the `plugin-buttons` example
+    - components:
+        - Footer version number now links to Github release page
+    - example:
+        - Added the `snap-male` and `snap-female` snippets to the `plugin-buttons` example
   Deprecated:
     components:
       - The Draft component has been renamed to Render. Draft still works, but will be removed in a future release.
