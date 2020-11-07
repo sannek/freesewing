@@ -1,7 +1,7 @@
 {
-  "name": "{{name}}-example",
-  "homepage": "https://{{author}}.github.io/{{name}}",
-  "version": "0.0.0",
+  "name": "{{name}}",
+  "homepage": "https://{{name}}.freesewing.dev/",
+  "version": "{{version}}",
   "private": true,
   "dependencies": {
     "@freesewing/components": "latest",
@@ -20,13 +20,14 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "^v4.0.0-alpha.56",
     "pattern": "{{#if yarn}}link:..{{else}}file:..{{/if}}",
-    "prismjs": "1.20.0",
+    "prismjs": "1.22.0",
     "react": "^16.13",
     "react-dom": "^16.13",
     "react-scripts": "^3.4.1",
     "file-saver": "^2.0.2",
     "react-markdown": "4.3.1",
-    "typeface-roboto-condensed": "latest"
+    "typeface-roboto-condensed": "latest",
+    "typeface-raleway": "latest"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -4,6 +4,36 @@
 ## Unreleased
 
 
+## 2.10.2 (2020-11-07)
+
+### core
+
+#### Fixed
+
+ - Fixed bundled bezier-js version
+
+
+## 2.10.1 (2020-11-07)
+
+### components
+
+#### Changed
+
+ - Changes to workbench
+
+### core
+
+#### Changed
+
+ - Switched to bezier-js v3
+
+### css-theme
+
+#### Changed
+
+ - Removed unused CSS code
+
+
 ## 2.10.0 (2020-10-17)
 
 ### albert
