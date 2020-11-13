@@ -4,6 +4,30 @@
 ## Unreleased
 
 
+## 2.10.4 (2020-11-13)
+
+### titan
+
+#### Fixed
+
+ - Issue with incorrectly named point
+
+
+## 2.10.3 (2020-11-08)
+
+### components
+
+#### Changed
+
+ - Draft component now supports snippets in the same way as the render method
+
+### core
+
+#### Changed
+
+ - Renderprops now includes SVG with preRender hook applied
+
+
 ## 2.10.2 (2020-11-07)
 
 ### core
